@@ -6,6 +6,10 @@
 //  Copyright © 2016年 ocelot. All rights reserved.
 //
 
+//練習
+
+
+
 import UIKit
 import AVFoundation
 
@@ -30,6 +34,7 @@ class QRCodereaderViewController: UIViewController, AVCaptureMetadataOutputObjec
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("test")
         
         // Do any additional setup after loading the view.
         
